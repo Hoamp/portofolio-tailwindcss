@@ -1468,6 +1468,14 @@ body{
     width: 33.333333%;
   }
 
+  .xl\:w-11\/12 {
+    width: 91.666667%;
+  }
+
+  .xl\:w-full {
+    width: 100%;
+  }
+
   .xl\:pl-12 {
     padding-left: 3rem;
   }
